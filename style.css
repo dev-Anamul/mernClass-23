@@ -1,0 +1,12 @@
+img {
+  width: 90%;
+  margin: 0 auto;
+}
+.modalExtra {
+  text-align: center;
+}
+
+.view__img {
+  height: 400px;
+  object-fit: cover;
+}
